@@ -9,12 +9,12 @@
 - 🎓 Títulos académicos:
   - Tecnólogo Superior en Desarrollo de Software
   - Tecnólogo Universitario en Sistemas y Gestión de Data
-  - Actualmente cursando una Maestría en Tecnología Artificial Aplicada
+  - Actualmente cursando una Maestría en Inteligencia Artificial Aplicada
 - 🔭 Actualmente, estoy desarrollando una aplicación para diseño de redes de fibra óptica llamada **IdeaFTTH**.
 - 💼 Trabajo como desarrollador freelance.
 - 🌱 Experiencia en telecomunicaciones, especialmente en redes inalámbricas y fibra óptica.
 - ⚡ Hobbies: Me apasiona la halterofilia y el baloncesto.
-- 🎯 Objetivo: Lanzar **IdeaFTTH** para facilitar la administración, diseño y mantenimiento de redes gigantes de fibra óptica.
+- 🎯 Objetivo: Lanzar **IdeaFTTH** para facilitar la administración, diseño y mantenimiento de redes de fibra óptica.
 
 ## Mis Habilidades
 
