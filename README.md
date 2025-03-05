@@ -1,4 +1,4 @@
-# ¡Hola! Soy Snakepatch53 🐍
+# ¡Hola! Soy Harold 👋
 
 <img src="https://github.com/snakepatch53/snakepatch53/raw/main/Harold.png" alt="Foto de Snakepatch53" width="200" />
 
